@@ -9,7 +9,7 @@
 - This dataset contains information about 10,000 movies collected from the Movies Database (TMdb), including user ratings and revenue.
 
 #### Data Source:
-The original data files used in for this project are listed [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
+The original data files used for this project are listed [here](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 #### Data Wrangling Steps:
 
