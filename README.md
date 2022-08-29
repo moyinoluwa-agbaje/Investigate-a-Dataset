@@ -30,8 +30,8 @@ Right after the processes above, I checked the relationship between runtime and 
 
 ## Key Insights for Presentation
 
-- Removing unwanted columns off the table for better exploration and analysis. Also, the last two columns with '_adj' will be adjusted to avoid possible mixup or confusion.
-- Column(s) have right skewness.
+- Removing unwanted columns off the table for better exploration and analysis. Also, the last two columns with '_adj' were adjusted to avoid possible mixup or confusion.
+- Column(s) that have right skewness.
 - Percentage distribution of genres.
 - Relationship between runtime and average vote.
 - Correlation between average vote, release year and popularity.
